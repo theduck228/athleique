@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  width: 100%;
+  gap: 10%;
+  padding: 0 10px;
+}
+.header__logo {
+  margin-top: 10px;
+  width: 80%;
+}
+.header-order {
+  display: flex;
+  flex-direction: column;
+}
+.header-order__header {
+  width: 80%;
+}
+.header-order__make-order {
+  display: flex;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=header.css.map */
